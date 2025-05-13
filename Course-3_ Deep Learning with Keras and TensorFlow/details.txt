@@ -1,0 +1,7 @@
+Create custom layers and models in Keras and integrate Keras with TensorFlow 2.x
+
+Develop advanced convolutional neural networks (CNNs) using Keras
+
+Develop Transformer models for sequential data and time series prediction
+
+Explain key concepts of Unsupervised learning in Keras, Deep Q-networks (DQNs), and reinforcement learning
